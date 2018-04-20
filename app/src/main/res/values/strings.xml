@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">WeatherList</string>
+    <string name="splashimage_description">Splash Screen</string>
+    <string name="splash_label">Splash Screen Loading</string>
+
+</resources>
